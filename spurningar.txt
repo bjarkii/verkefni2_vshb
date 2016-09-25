@@ -1,0 +1,12 @@
+3)
+
+a) MVC í hugbúnaðar-gerð er að skipta kóðanum lógískt upp í mismunandi hluta. Sem dæmi model, view og controller.
+
+Model-ið sér um data og virknina. View-ið er allt sem þú sérð, viðmótið. Og að lokum er það controller-inn sem sér 
+að framkvæma ákveðnar skipanir tengdar forritinu og notendanum.
+
+b) MVC í vefgerð gengur meira út frá því að aðskilja client og server.
+
+c) Snyrtilegri kóði, léttara að uppfæra og laga gamlann kóða. 
+
+d) Data binding í MVC er controller-inn. Hluturinn sem bindir saman viðmótið og virknina.
